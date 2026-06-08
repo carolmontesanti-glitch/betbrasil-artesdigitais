@@ -1,3 +1,3 @@
 # betbrasil-artesdigitais
 
-https://github.com/carolmontesanti-glitch/betbrasil-artesdigitais.git
+ https://carolmontesanti-glitch.github.io/betbrasil-artesdigitais/
